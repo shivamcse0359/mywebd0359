@@ -28,7 +28,7 @@ tr{
     max-width: 350px;
     margin: auto;
     text-align: center;
-    background-color: rgb(178, 182, 204);
+    background-color: rgb(255, 255, 255);
     border-radius: 10px;
     overflow:hidden;
  }
@@ -39,16 +39,22 @@ tr{
     padding:15px;
     box-sizing:border-box;
  }
+
+ .product-details{
+   text-align: left;
+ }
  .product-title{
     font-size: 1.1em;
     margin: 10px 0 5px;
-    color: #333;
- }
+    color: #333;}
+
+
  .product-description{
-    color:rgb(135, 134, 134);
+    color:rgb(128, 128, 128);
     font-size:1.1em;
     margin-right: 5px;
  }
+
 .add-to-cart{
     border: none;
     outline: 0;
