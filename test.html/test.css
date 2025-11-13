@@ -1,0 +1,14 @@
+table{
+    border-collapse: collapse;
+
+}
+th{
+    background-color: grey;
+}
+td{
+    
+    padding: 25px;
+}
+tr:nth-child(odd){
+    background-color: grey;
+}
