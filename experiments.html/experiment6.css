@@ -23,6 +23,7 @@ tr{
  i{
     color: grey;
  }
+ 
  .product-card{
     box-shadow:0 4px 8px 0 rgba(60, 0, 0, 0.2);
     max-width: 350px;
@@ -31,6 +32,7 @@ tr{
     background-color: rgb(255, 255, 255);
     border-radius: 10px;
     overflow:hidden;
+    margin-bottom: 200px;
  }
  .product-image-box{
     width:100%;
