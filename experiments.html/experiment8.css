@@ -2,9 +2,8 @@
     display: flex;
     justify-content: center;
     gap: 20px;
-     width: 100%;
-   text-align: center;
-   justify-content: center;
+    width: 100%;
+
 }
 .card{
     background-color: #ffffff;
