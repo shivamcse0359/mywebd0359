@@ -1,0 +1,38 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+.outer{
+  padding: 25%;
+}
+.box4{
+  background-color: rgb(43, 195, 144);
+  text-align: center;
+  padding: 30%;
+  color: aliceblue;
+}
+.box3{
+  background-color: yellow;
+  text-align: center;
+  padding: 7%;
+  color: aliceblue;
+}
+.box2{
+  background-color: rgb(0, 179, 255);
+  text-align: center;
+  padding: 6%;
+  color: aliceblue;
+}
+.box1{
+  background-color: orangered;
+  text-align: center;
+  padding: 3%;
+  color: aliceblue;
+}
+
+body {
+    background-color: rgb(10, 8, 72);
+}
+h2{
+  color: white;
+}
